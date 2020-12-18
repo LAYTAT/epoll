@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-8/root/usr/bin/g++  -g  -rdynamic CMakeFiles/my-epoll-server.dir/epoll_server.cpp.o  -o my-epoll-server 

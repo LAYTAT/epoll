@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/utility.h
+iostream
+-
+list
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+sys/epoll.h
+-
+fcntl.h
+-
+errno.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/tmp/my-epoll/client/epoll_client.cpp
+utility.h
+/tmp/my-epoll/client/utility.h
+

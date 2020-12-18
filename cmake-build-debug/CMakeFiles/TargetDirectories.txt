@@ -1,0 +1,11 @@
+/tmp/my-epoll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/my-epoll/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/my-epoll/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir
+/tmp/my-epoll/cmake-build-debug/server/CMakeFiles/edit_cache.dir
+/tmp/my-epoll/cmake-build-debug/server/CMakeFiles/my-epoll-server.dir
+/tmp/my-epoll/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir
+/tmp/my-epoll/cmake-build-debug/client/CMakeFiles/edit_cache.dir
+/tmp/my-epoll/cmake-build-debug/client/CMakeFiles/my-epoll-client.dir
+/tmp/my-epoll/cmake-build-debug/apis/CMakeFiles/edit_cache.dir
+/tmp/my-epoll/cmake-build-debug/apis/CMakeFiles/rebuild_cache.dir
+/tmp/my-epoll/cmake-build-debug/apis/CMakeFiles/my-api-test.dir
